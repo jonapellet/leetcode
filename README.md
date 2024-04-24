@@ -11,3 +11,11 @@ Elegant and easy to understand solutions that show how I think.
 - 1431: [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) 
 - 605: [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
 
+
+## Solution test suite
+```bash
+cd leetcode
+poetry install
+poetry run pytest
+```
+
