@@ -1,0 +1,2 @@
+# leetcode
+leetcode type exercices
