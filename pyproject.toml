@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "leetcode"
+version = "0.1.0"
+description = "Showing off my skills through leetcode"
+authors = ["Jonathan Pelletier <jonathan.pelletier-aafz@thecloudco.ca>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.1.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
