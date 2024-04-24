@@ -37,9 +37,6 @@
 #     2 <= n <= 100
 #     1 <= candies[i] <= 100
 #     1 <= extraCandies <= 50
-
-
-
 from typing import List
 
 def kids_with_candies(candies: List[int], extra_candies: int) -> List[bool]:
