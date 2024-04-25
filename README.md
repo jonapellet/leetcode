@@ -5,6 +5,7 @@ One leetcode a day keeps the brain bugs away.
 Elegant and easy to understand solutions that show how I think.
 ### Medium
 - 151: [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+- 238: [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 ### Easy
 - 1768: [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/) 
 - 1071: [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) 
