@@ -26,7 +26,7 @@
 #
 # Follow up: Can you solve the problem in O(1) extra space complexity? (The output array does not count as extra space for space complexity analysis.)
 
-
+# NOTE: This currently fails the leetcode submission....
 
 from typing import List
 from functools import reduce
